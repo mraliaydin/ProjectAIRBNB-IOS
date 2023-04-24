@@ -1,0 +1,187 @@
+{
+    "houses": [
+    {
+        "name": "Igloo",
+        "category": "House",
+        "location": "Reykjavik, Iceland",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"unique-stays"
+    },
+    {
+        "name": "Palace de Shawn",
+        "category": "House",
+        "location": "Paris, France",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house1"
+    },
+    {
+        "name": "Ingin Residence",
+        "category": "House",
+        "location": "Nice, France",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house2"
+    },
+    {
+        "name": "Indomie",
+        "category": "House",
+        "location": "Rotterdam, Netherlands",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house3"
+    },
+    {
+        "name": "Shawn's Chapel",
+        "category": "House",
+        "location": "Reykjavik, Iceland",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house4"
+    },
+    {
+        "name": "Bjorn House",
+        "category": "House",
+        "location": "Manchester, United Kingdom",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house5"
+    },
+    {
+        "name": "DeJohn House",
+        "category": "House",
+        "location": "Manchester, United Kingdom",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house6"
+    },
+    {
+        "name": "Intip Glon",
+        "category": "House",
+        "location": "Seoul, South Korea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house7"
+    },
+    {
+        "name": "Si Chan Bo's",
+        "category": "House",
+        "location": "Beijing, China",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"house8"
+    },
+    {
+        "name": "Pets House",
+        "category": "House",
+        "location": "Capadocia, Turkey",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"pets-welcome"
+    },
+    {
+        "name": "Teller Apartment",
+        "category": "Apartment",
+        "location": "New York, United States of America",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment"
+    },
+    {
+        "name": "Arya Floor",
+        "category": "Apartment",
+        "location": "New York, United States of America",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment1"
+    },
+    {
+        "name": "Jon Snow's",
+        "category": "Apartment",
+        "location": "New York, United States of America",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment2"
+    },
+    {
+        "name": "Night King's",
+        "category": "Apartment",
+        "location": "Pasadena, United States of America",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment3"
+    },
+    {
+        "name": "Nether King",
+        "category": "Apartment",
+        "location": "California, United States of America",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"cabins-cottages"
+    },
+    {
+        "name": "Harika Apartment",
+        "category": "Apartment",
+        "location": "Fethiye, Turkey",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment4"
+    },
+    {
+        "name": "Beach Apartment",
+        "category": "Apartment",
+        "location": "Antalya, Turkey",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment5"
+    },
+    {
+        "name": "Anadolu East",
+        "category": "Apartment",
+        "location": "Istanbul, Turkey",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment6"
+    },
+    {
+        "name": "Ming Apartments",
+        "category": "Apartment",
+        "location": "Ho Chi Minh City, Thailand",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"apartment7"
+    },
+    {
+        "name": "Treat Bungalow",
+        "category": "Bungalow",
+        "location": "Singapore, Singapore",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"bungalow1"
+    },
+    {
+        "name": "Mera Ghar",
+        "category": "Bungalow",
+        "location": "Bali, Sri Lanka",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"bungalow2"
+    },
+    {
+        "name": "Uska Ghar",
+        "category": "Bungalow",
+        "location": "Karachi, Pakistan",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"bungalow3"
+    },
+    {
+        "name": "RAW ka ghar",
+        "category": "Bungalow",
+        "location": "Delhi, India",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"bungalow4"
+    },
+    {
+        "name": "Not my ghar",
+        "category": "Bungalow",
+        "location": "Bollywood, United States of America",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"bungalow5"
+    },
+    {
+        "name": "Pani p Bungalow",
+        "category": "Bungalow",
+        "location": "Panipat, India",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"bungalow6"
+    },
+    {
+        "name": "Ethereal Mark 1",
+        "category": "Apartment",
+        "location": "Seoul, South Korea",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non nibh blandit orci volutpat tincidunt ut vitae felis. Pellentesque id aliquet tortor. Ut facilisis consectetur auctor. Cras venenatis velit eu est consequat, vel cursus tellus varius. Curabitur interdum diam fermentum est gravida, eu convallis dui faucibus.",
+        "img":"ethereal"
+    },
+    
+    ]
+}
